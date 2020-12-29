@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508239576774",
+    "project_id": "yarab-555d0",
+    "storage_bucket": "yarab-555d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508239576774:android:ef2a27c0842fa7675be1c7",
+        "android_client_info": {
+          "package_name": "com.example.yarab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508239576774-2p4cb7ivmsk669votqp0cfp2qn6odco0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yarab",
+            "certificate_hash": "3449069ea72e8e2db37aa6ac011cf285a6dc4609"
+          }
+        },
+        {
+          "client_id": "508239576774-1mj5f1petga4j8mm92o0undg781bfpld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWQRsQkuavfDS1fsG1NKyfoRyX44wA9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508239576774-1mj5f1petga4j8mm92o0undg781bfpld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
